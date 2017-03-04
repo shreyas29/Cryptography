@@ -1,0 +1,22 @@
+Implement Diffie Hellman Key Exchange Algorithm. The following things should be included into implementation: 
+
+Ask Prime number from user (128 bit), check whether is it prime or not?
+Display all generators according to given prime number.
+Ask for private keys from user.
+Generate shared secret key.
+Note: Encryption, Decryption of message are not required. 
+
+
+http://stackoverflow.com/questions/2235471/save-a-list-of-unique-strings-in-the-arraylist
+
+/*
+        for (BigInteger bi = BigInteger.valueOf(5);
+            bi.compareTo(BigInteger.ZERO) > 0;
+            bi = bi.subtract(BigInteger.ONE)) {
+            System.out.println(bi);
+        }
+*/
+
+###############################################################
+You can add any content in this file which is to be encrypted
+###############################################################
